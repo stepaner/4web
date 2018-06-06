@@ -1,0 +1,118 @@
+.zag {font-family: Arial Unicode MS, serif;
+	font-size: 48px;/*Размер шрифта*/
+	font-weight: 900; /*Насыщенность текста*/
+	color: #46474A; /*Цвет текста*/
+	letter-spacing:5px ;} /*интервал между символами в пределах элемента*/
+
+.knop {font-family: Arial Unicode MS, serif;
+	font-size: 24px;/*ðàçìåð øðèôòà*/
+	font-weight: 900;
+	color: #46474A;
+	letter-spacing: 2px ;}
+
+.knop1 {font-family: Arial Unicode MS, serif;
+	font-size: 24px;/*ðàçìåð øðèôòà*/
+	font-weight: 900;
+	color: blue;
+	letter-spacing: 2px ;}
+
+.kol {font-family: Arial Unicode MS, serif;
+	font-size: 12px;/*ðàçìåð øðèôòà*/
+	color: #46474A;
+	letter-spacing: 2px;
+	text-align:right; /*горизонтальное выравнивание текста*/
+	margin-right: 35px /*устанавливает величину отступа от правого края*/
+	}
+
+.zag1 {font-family: Arial Unicode MS, serif;
+	font-size: 32px;/*ðàçìåð øðèôòà*/
+	font-weight: 900;
+	color: #46474A;
+	letter-spacing: 2px ;
+	margin-top: 2%; /*величину отступа от верхнего края*/
+	margin-left: 100px;
+	}
+	
+	
+.zag2 {font-family: Arial Unicode MS, serif;
+	font-size: 32px;/*ðàçìåð øðèôòà*/
+	font-weight: 900;
+	color: #46474A;
+	letter-spacing: 2px ;
+	margin-top: 1%;
+	margin-left: 350px;
+	}
+
+.text {font-family: Arial Unicode MS, serif;
+	font-size: 20px;/*ðàçìåð øðèôòà*/
+	color: #46474A;
+	text-align:justify; /*по ширине*/
+	margin: 5%; /*величину отступа со всех сторон*/
+	}
+
+.tex {font-family: Arial Unicode MS, serif;
+	font-size: 16px;/*נאחלונ רנטפעא*/
+	font-weight: 600;
+	color: red;
+	text-align:right;
+	margin-right: 100px;
+	}
+
+.text3 {font-family: Arial Unicode MS, serif;
+	font-size: 20px;/*ðàçìåð øðèôòà*/
+	color: #46474A;
+	text-align:justify;
+	}
+	
+.text1 {font-family: Arial Unicode MS, serif;
+	font-size: 20px;/*ðàçìåð øðèôòà*/
+	color: #46474A;
+	text-align:justify;
+	margin-left: 50px;
+	}
+
+A {text-decoration: none; /* оформление текста ввиде его подчеркивания */
+	color:#46474A;
+   	}
+
+a:active {
+	color:BLUE;
+	text-decoration:none
+	}
+
+a:visited {
+	color:#46474A;
+	text-decoration:none
+	}
+
+a:hover {
+	color:BLUE;
+	text-decoration: none
+	}
+	
+.search {
+    width: 150px; /* ширина поискового окна */
+   }
+   
+.search1 {
+    width: 400px; /* ?????? ? ???????? */
+   }
+
+.textar{	font-size: 18px;
+			background-color: #fff;
+			border: 2px solid #A9A9A9;
+			padding: 2px 5px;
+			width: 70%;
+			height: 100px;
+		}
+.inp{	font-size: 18px;
+		border: 2px solid #A9A9A9;
+		width: 50%;	
+		height: 36px;
+		}
+
+.inp1{	font-size: 16px;
+		border: 2px solid #46474A ;
+		width: 20%;	
+		height: 30px;
+		}
